@@ -132,10 +132,11 @@ In this guide, we will demonstrate how to authenticate with the Microsoft Graph 
         ]
     }
     ```
-    
+
+    # This is a test for Moveworks HackerOne program by diogourupes. 
+
 
 # Congratulations!
 
-### This is a test for Moveworks HackerOne program by diogourupes. 
 
 You just connected your Microsoft Graph API to Creator Studio.
