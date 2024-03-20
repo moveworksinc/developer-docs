@@ -133,7 +133,6 @@ In this guide, we will demonstrate how to authenticate with the Microsoft Graph 
     }
     ```
 
-    # This is a test for Moveworks HackerOne program by diogourupes. 
 
 
 # Congratulations!
